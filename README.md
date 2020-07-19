@@ -3,7 +3,7 @@
 My name is Eric, currently not a developer but wanna learning coding. Glad to meet you here! 😊
 
 - 🔭 I’m currently working as a Solution Architect on Smart Cities.
-- 🌱 I’m currently start learning coding under Linux. 
+- 🌱 I’m currently start learning coding. 
 
 <!--
 **ericsyh/ericsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
