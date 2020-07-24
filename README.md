@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eric, currently not a developer but wanna learning coding. Glad to meet you here! 😊
+My name is Eric, not a developer but wanna learning coding. Glad to meet you here! 😊
 
 - 🔭 I’m currently working as a Solution Architect.
 - 🌱 I’m currently start learning coding. 
